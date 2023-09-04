@@ -24,7 +24,7 @@
         <version>9</version>
     </parent>
 
-    <groupId>org.apache.dubbo</groupId>
+    <groupId>org.apache.dubbo.ecosystem</groupId>
     <artifactId>dubbo-shared-resources</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
